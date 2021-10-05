@@ -1,0 +1,64 @@
+[{
+        "id": 1,
+        "img": "https://www.ccmacademy.co.uk/images/small_groups/coaching.jpg",
+        "name": "Basic Batting Trigger Movements",
+        "price": 7,
+        "reviews": 4.5
+    },
+    {
+        "id": 2,
+        "img": "https://www.cricketvictoria.com.au/wp-content/uploads/2018/01/drills-batting.png",
+        "name": "Basic Batting Drill",
+        "price": 23,
+        "reviews": 5
+    },
+    {
+        "id": 3,
+        "img": "https://tiimg.tistatic.com/fp/1/006/946/green-cricket-practice-net-000.jpg",
+        "name": "Net Practice",
+        "price": 39,
+        "reviews": 4
+    },
+    {
+        "id": 4,
+        "img": "https://i.ytimg.com/vi/0VVNybUx7DE/maxresdefault.jpg",
+        "name": "Fast bowling",
+        "price": 19,
+        "reviews": 5
+    },
+    {
+        "id": 5,
+        "img": "https://www.cricketbio.com/wp-content/uploads/2020/11/How-to-Increase-Bowling-Speed-in-Cricket.jpg",
+        "name": "Fast Bowling Swing",
+        "price": 37,
+        "reviews": 4.5
+    },
+    {
+        "id": 6,
+        "img": "https://www.cricketbio.com/wp-content/uploads/2020/11/seam-in-cricket.jpg",
+        "name": "Fast Bowling Leg Cutter",
+        "price": 49,
+        "reviews": 5
+    },
+    {
+        "id": 7,
+        "img": "https://www.wikihow.com/images/2/25/Bowl-a-Yorker-Step-12.jpg",
+        "name": "Various Types Of Spin Bowling",
+        "price": 44,
+        "reviews": 4.5
+    },
+    {
+        "id": 8,
+        "img": "https://stemglobe.org/wp-content/uploads/2019/08/3-fun-cricket-fielding-drills.jpg",
+        "name": "Fielding Positions & techniques",
+        "price": 51,
+        "reviews": 5
+    },
+    {
+        "id": 9,
+        "img": "https://cricketershub.com/wp-content/uploads/2018/12/Hitting-ball-featured-image.jpg",
+        "name": "Modern Cricket Batting Footworks",
+        "price": 70,
+        "reviews": 5
+    }
+]

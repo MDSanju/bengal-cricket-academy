@@ -1,0 +1,15 @@
+.footer-container {
+    background-color: #222;
+    color: white;
+    padding-top: 85px;
+    padding-bottom: 48px;
+    text-align: left;
+}
+
+.support p {
+    color: rgb(197, 197, 192);
+}
+
+.about-us p {
+    color: rgb(197, 197, 192);
+}

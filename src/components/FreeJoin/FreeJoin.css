@@ -1,0 +1,29 @@
+.free-join {
+    margin-top: 100px;
+    margin-bottom: 78px;
+}
+
+.free-join h2 {
+    margin-bottom: 30px;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.free-join input {
+    width: 380px;
+    padding: 8px 20px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.free-join button {
+    width: 380px;
+    padding: 8px 18px;
+    border: none;
+    border-radius: 5px;
+    background-color: orangered;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    cursor: pointer;
+}
