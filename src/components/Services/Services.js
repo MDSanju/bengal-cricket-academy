@@ -4,6 +4,7 @@ import Service from '../Service/Service';
 const Services = () => {
     // use state hook
     const [services, setServices] = useState([]);
+    console.log(services);
 
     // use effect for doing fetch
     useEffect(() => {
